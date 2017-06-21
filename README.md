@@ -53,7 +53,7 @@ We dont recruit employee, we find a teammate. Every team member knows what they 
 As the early day, Dwarves Foundation started with few members. We understand how important the team culture is if we want to attract talents. Some cultures that we are proud of forming:
 
 - Tech/non-tech talk: Each miner in our team is wearing many hats. We are not afraid of switching languages or stacks. To achieve that, a miner should have cross boundaries in every stack currently using. A backend soldier can easily read front end code, fix bugs without asking front end soldier to help. We host this talk every 2 weeks on Wednesday. Yes, certainly you can invite your friends to come! We also talk about non-tech topics, like finances or life purposes. We have [repository](https://github.com/dwarvesf/seminar) to store documents. 
-[![Techtalk](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/techtalk.png)](/images/techtalk.jpg)
+[![Techtalk](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/techtalk.jpg)](/images/techtalk.jpg)
 
 - Development process: Soldiers need proper process for their battle. Whenever a soldier joins a fight, he should easily using the process to catch up and efficiently get familiar with project. We defined [Gitlab process](https://github.com/dwarvesf/team/blob/master/gitlab.md) for helping new comers. Beside that, we have a tons of utility tools that boost productivities at highest as possible. We have [miner](), a tiny-but-not-weak solider helping team members easily managing their dotfiles, standardize the environment setting for languages and projects.
 

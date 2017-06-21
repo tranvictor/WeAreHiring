@@ -45,17 +45,41 @@ Because we know that teamwork is one of important factor to be successful. We re
 
 **_TL;DR_**: you need to be a culture fit and a values fit
 
-**You** - apply for one of the position above by filling an application form.
+The right skill set is only one factor in finding the perfect candidate. As the fast-paced start up team (We grow from 3 to 15), we care more about culture fit. Frankly, how your present can have a major impact on team morale and overall execution?
 
-* you can apply if
-   * you have the [same DNA](#our-core-values) as us
-   * you are able to join us in Saigon, Vietnam or remotely. Should read [Remote](http://www.amazon.com/Remote-Office-Not-Required/dp/0804137501) & [Rework](http://www.amazon.com/Rework-Jason-Fried/dp/0307463745) by 37signals / Basecamp
-   * you want to build a world class products and superb team.
-* we'd love to see who you are and what have you been working on
-* write more detailed info related to the position you're applying for
-* make sure you enter links to your public profiles (i.e. Linkedin, Twitter, GitHub, personal Blog, Behance, Dribbble...)
-* don't forget to attach portfolio of projects you've been working on (ideally with links for AppStore/PlayStore)
-* attach references, if you have any
+We dont recruit employee, we find a teammate. Every team member knows what they want to do, and who they want to be.
+
+### Culture
+As the early day, Dwarves Foundation started with few members. We understand how important the team culture is if we want to attract talents. Some cultures that we are proud of forming:
+
+- Tech/non-tech talk: Each miner in our team is wearing many hats. We are not afraid of switching languages or stacks. To achieve that, a miner should have cross boundaries in every stack currently using. A backend soldier can easily read front end code, fix bugs without asking front end soldier to help. We host this talk every 2 weeks on Wednesday. Yes, certainly you can invite your friends to come! We also talk about non-tech topics, like finances or life purposes. We have [repository](https://github.com/dwarvesf/seminar) to store documents. 
+[Techtalk](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/techtal.jpg)
+
+- Development process: Soldiers need proper process for their battle. Whenever a soldier joins a fight, he should easily using the process to catch up and efficiently get familiar with project. We defined [Gitlab process](https://github.com/dwarvesf/team/blob/master/gitlab.md) for helping new comers. Beside that, we have a tons of utility tools that boost productivities at highest as possible. We have [miner](), a tiny-but-not-weak solider helping team members easily managing their dotfiles, standardize the environment setting for languages and projects.
+
+- Community contribution: We highly concern about Vietnam tech's community. Make this community stronger is one mission we want to achieve. We found [Golang Vietnam](https://www.facebook.com/golang.org.vn/) on 2014 and it now becomes one of the most affected tech group. We encourage our miners to dig more on open source projects and contribute as well. Some of them: [glod](https://github.com/dwarvesf/glod-cli), [working-on](https://github.com/dwarvesf/working-on). You can find us on some PRs of famous open source repositories, especially in Go language.
+[Golang-vietnam](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/golang-vietnam.jpg)
+
+- Idividual innovation: Self-learning is a must. We let our miners have 20% of their working time for digging something for their own. We also have funds for buying books. Technical or non-tech books play the same important role.
+[Books](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/books.jpg)
+
+So please have questions answered before you want to join our team:
+- Why you choose us?
+- What can you bring to us?
+- What are you expecting we can bring to you?
+
+We are expecting **You**:
+   * Have the [same DNA](#our-core-values) as us
+   * Want to build a world class products and superb team.
+   * Want to find boost yourself at the highest level.
+
+### Value fit
+We are expecting **Your application form**
+  * Who you are and what have you been working on
+  * More detailed info related to the position you're applying for
+  * Make sure you enter links to your public profiles (i.e. Linkedin, Twitter, GitHub, personal Blog, Behance, Dribbble...)
+  * Don't forget to attach portfolio of projects you've been working on (ideally with links for AppStore/PlayStore)
+  * Attach references, if you have any
 
 **Us** - we'll receive a notification and based on what you have we will either thank you *(ups)* or schedule a first call.
 

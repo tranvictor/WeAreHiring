@@ -53,15 +53,15 @@ We dont recruit employee, we find a teammate. Every team member knows what they 
 As the early day, Dwarves Foundation started with few members. We understand how important the team culture is if we want to attract talents. Some cultures that we are proud of forming:
 
 - Tech/non-tech talk: Each miner in our team is wearing many hats. We are not afraid of switching languages or stacks. To achieve that, a miner should have cross boundaries in every stack currently using. A backend soldier can easily read front end code, fix bugs without asking front end soldier to help. We host this talk every 2 weeks on Wednesday. Yes, certainly you can invite your friends to come! We also talk about non-tech topics, like finances or life purposes. We have [repository](https://github.com/dwarvesf/seminar) to store documents. 
-[Techtalk](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/techtal.jpg)
+[![Techtalk](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/techtalk.png)](/images/techtalk.png)
 
 - Development process: Soldiers need proper process for their battle. Whenever a soldier joins a fight, he should easily using the process to catch up and efficiently get familiar with project. We defined [Gitlab process](https://github.com/dwarvesf/team/blob/master/gitlab.md) for helping new comers. Beside that, we have a tons of utility tools that boost productivities at highest as possible. We have [miner](), a tiny-but-not-weak solider helping team members easily managing their dotfiles, standardize the environment setting for languages and projects.
 
 - Community contribution: We highly concern about Vietnam tech's community. Make this community stronger is one mission we want to achieve. We found [Golang Vietnam](https://www.facebook.com/golang.org.vn/) on 2014 and it now becomes one of the most affected tech group. We encourage our miners to dig more on open source projects and contribute as well. Some of them: [glod](https://github.com/dwarvesf/glod-cli), [working-on](https://github.com/dwarvesf/working-on). You can find us on some PRs of famous open source repositories, especially in Go language.
-[Golang-vietnam](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/golang-vietnam.jpg)
+[![Golang-vietnam](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/golang-vietnam.jpg)](/images/golang-vietnam.png)
 
 - Idividual innovation: Self-learning is a must. We let our miners have 20% of their working time for digging something for their own. We also have funds for buying books. Technical or non-tech books play the same important role.
-[Books](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/books.jpg)
+[![Books](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/books.jpg)](/images/books.png)
 
 So please have questions answered before you want to join our team:
 - Why you choose us?

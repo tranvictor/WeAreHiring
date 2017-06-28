@@ -13,6 +13,10 @@
 - [Gophers](/open-positions/Golang.md)
 - [Web Frontend](/open-positions/Frontend.md)
 
+#### Tester
+
+- [QA/QC](/open-positions/QA-QC.md)
+
 # We are dwarves
 
 Found in 2014, we are a team of geeks, hustles and startup veterans. We live around the world but most of us based in Saigon, Vietnam. We are (forever) young and always eager to learn. We have passion and experience in making cool products, esp. cloud and mobile apps. We want to help entrepreneurs solve real problems using our approachs and solutions.
@@ -52,7 +56,7 @@ We dont recruit employee, we find a teammate. Every team member knows what they 
 ### Culture
 As the early day, Dwarves Foundation started with few members. We understand how important the team culture is if we want to attract talents. Some cultures that we are proud of forming:
 
-- Tech/non-tech talk: Each miner in our team is wearing many hats. We are not afraid of switching languages or stacks. To achieve that, a miner should have cross boundaries in every stack currently using. A backend soldier can easily read front end code, fix bugs without asking front end soldier to help. We host this talk every 2 weeks on Wednesday. Yes, certainly you can invite your friends to come! We also talk about non-tech topics, like finances or life purposes. We have [repository](https://github.com/dwarvesf/seminar) to store documents. 
+- Tech/non-tech talk: Each miner in our team is wearing many hats. We are not afraid of switching languages or stacks. To achieve that, a miner should have cross boundaries in every stack currently using. A backend soldier can easily read front end code, fix bugs without asking front end soldier to help. We host this talk every 2 weeks on Wednesday. Yes, certainly you can invite your friends to come! We also talk about non-tech topics, like finances or life purposes. We have [repository](https://github.com/dwarvesf/seminar) to store documents.
 
 [![Techtalk](https://raw.githubusercontent.com/dwarvesf/WeAreHiring/master/images/techtalk.jpg)](/images/techtalk.jpg)
 
